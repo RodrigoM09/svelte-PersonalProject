@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+:root {
+	--primary-color: rgb(87, 142, 62);
+	--secondary-color: rgb(32, 79, 114);
+	--tertiary-color: rgb(203, 213, 226);
+}
+
+html {
+	box-sizing: border-box;
+}
+
+body {
+	height: 100%;
+	font-family: "Arimo", sans-serif;
+}
+
+/* #yourStory {
+	font-family: "Arima", cursive;
+} */
+
